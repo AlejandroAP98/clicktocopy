@@ -17,9 +17,19 @@ códigos, RFC, tarjetas, direcciones, etc. Incluye dos temas visuales: **pixel a
 - **Dos temas**: pixel art (Pico-8) y normal (sobrio), conmutables desde la app.
 - **Sin consola**: se puede ejecutar como `.exe` compilado o vía `pythonw`.
 
-## Captura
+## Capturas
 
-_(pendiente: agregar screenshot de la app)_
+Panel con datos, con el formulario para agregar elementos (tema normal):
+
+![Panel con datos](doc/capturas/datos.png)
+
+Tema pixel art (Pico-8):
+
+![Tema pixel art](doc/capturas/pixel.png)
+
+Tema normal (sobrio):
+
+![Tema normal](doc/capturas/windows.png)
 
 ## Requisitos
 
