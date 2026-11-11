@@ -1,0 +1,13 @@
+# Datos personales (¡no subir!)
+datos.json
+config.json
+
+# Compilación
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
