@@ -11,3 +11,5 @@ dist/
 # Python
 __pycache__/
 *.pyc
+desktop.ini
+Thumbs.db
